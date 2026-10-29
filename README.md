@@ -1,16 +1,18 @@
-## Hi there 👋
+### Senior .NET Full Stack Engineer · Bursa, Türkiye
 
-<!--
-**afaki16/afaki16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build backend-heavy systems for manufacturing, logistics and IoT with C#/.NET, plus the Vue/Nuxt and Angular frontends that go with them.
 
-Here are some ideas to get you started:
+**Now**
+- Spare parts, logistics and freight billing platforms at Ford Otosan: ASP.NET Core, Oracle PL/SQL, SAP integration
+- Dernify: multi-tenant SaaS for associations (.NET 9 Clean Architecture, PostgreSQL, Nuxt 3, k3s + ArgoCD)
+- Sethumo: appointment SaaS with a voice assistant
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Before**
+- Qcharge: 19-microservice EV charging platform (RabbitMQ/MassTransit, YARP, .NET 8, Nuxt)
+- EcoPlus MES: multi-tenant microservice MES with real-time machine data (ABP, Angular)
+- BinBin: micromobility, OTP over WhatsApp/SMS and query optimization
+
+**Stack**
+C# · .NET (4.8 → 10) · ASP.NET Core · EF Core · Oracle PL/SQL · PostgreSQL · MSSQL · MongoDB · Redis · RabbitMQ/MassTransit · CQRS/MediatR · YARP · Docker · Vue/Nuxt · Angular · TypeScript
+
+[LinkedIn](https://www.linkedin.com/in/alperen-faki)
